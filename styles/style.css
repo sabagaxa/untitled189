@@ -5,9 +5,6 @@
     font-family: Inter;
 }
 
-html, body {
-    scroll-behavior: smooth;
-}
 
 .header {
     display: flex;
